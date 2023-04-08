@@ -1,4 +1,4 @@
 @echo off
 cls
-jai main.jai -import_dir modules
+jai sim86_test.jai -import_dir modules
 
